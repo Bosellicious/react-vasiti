@@ -1,5 +1,4 @@
 import React from 'react';
-import { createRef } from 'react/cjs/react.production.min';
 import './App.css';
 import ThankYou from './components/ThankYou';
 
